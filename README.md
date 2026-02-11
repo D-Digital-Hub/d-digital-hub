@@ -6,6 +6,7 @@ Entry-level remote work professional with training in workplace ethics, communic
 - Focused on learning modern digital skills
 - Interested in programming, data analysis, and technology in general
 - Committed to consistency, reliability, and improvement
+- Love playing the keyboard and saxophone
 
 ## Current Focus
 - Building foundational skills in programming and data analysis
