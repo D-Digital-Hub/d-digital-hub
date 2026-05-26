@@ -1,40 +1,40 @@
 # Hi, I'm John Ohaka 👋
 
-Entry-level remote work professional with training in workplace ethics, communication, and task management.
+Aspiring Data Analyst with hands-on experience in SQL, Power BI, and data storytelling. Currently training at **ALIWA** and actively building real-world analytics projects.
 
-## About Me
-- Focused on learning modern digital skills
-- Interested in programming, data analysis, and technology in general
-- Committed to consistency, reliability, and improvement
-- Love playing the keyboard and saxophone
+---
 
-## Current Focus
-- Building foundational skills in programming and data analysis
-- Exploring tools and practical projects to strengthen my portfolio
-- Developing professional workflows for remote work
+## 🔍 About Me
+- 📊 Passionate about turning raw data into actionable business insights
+- 🛠️ Currently working with **SQL**, **Power BI**, and **Excel**
+- 🌍 Based in Lagos, Nigeria — open to remote opportunities
+- 🎷 Fun fact: I play the keyboard and saxophone
 
-## Tech Interests
-- Python | Data Analysis | Automation
-- Cybersecurity fundamentals (exploring)
-- Productivity and digital tools
+---
 
-## Connect with Me
+## 🚀 Current Focus
+- Completing my Data Analytics training at ALIWA
+- Publishing my first end-to-end analytics project (MallPulse Istanbul)
+- Building a portfolio of real-world data projects
+- Actively applying for junior data analyst roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-ohaka)
+---
 
+## 🛠️ Tools & Skills
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+---
 
-<!--
-**D-Digital-Hub/d-digital-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📁 Featured Project
+### 🛍️ [MallPulse Istanbul — Retail Shopping Intelligence](https://github.com/D-Digital-Hub/mallpulse-retail-analysis)
+> Analyzed 99,000+ retail transactions across 10 Istanbul malls (2021–2023).
+> Built SQL queries to answer 8 key business questions and co-developed an interactive Power BI dashboard.
+> **Tools:** Excel • SQL • Power BI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-ohaka-8b1828405/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnohaka28@gmail.com)
